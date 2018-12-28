@@ -1,12 +1,9 @@
-siteTitle: Netlify CMS + React Starter
+siteTitle: Tyc00n Software
 siteUrl: 'https://netlify-cms-react-starter.netlify.com'
-siteDescription: >-
-  A starter project for creating lightning-fast, offline-first websites with
-  Netlify CMS and React.
+siteDescription: Your next software provider
 socialMediaCard:
-  image: /images/uploads/card-og.png
+  image: /images/uploads/tycoon-mark-color.png
   twitterCreatorAccount: '@Jinksi'
   twitterSiteAccount: ''
-headerScripts: |-
-  <!-- Add your analytics scripts / verification meta here -->
+headerScripts: <!-- Add your analytics scripts / verification meta here -->
 enableServiceWorker: false
