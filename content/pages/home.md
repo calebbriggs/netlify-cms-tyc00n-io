@@ -6,7 +6,7 @@ subtitle: |-
 
   ## We use cutting edge technology to make our partners vision a reality.
 meta:
-  title: Tyc00n Software
+  title: Home
 ---
 # Services
 
