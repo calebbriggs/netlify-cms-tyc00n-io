@@ -2,14 +2,19 @@
 title: About
 featuredImage: /images/uploads/tim-marshall-155597.jpg
 subtitle: test
-section1: |-
+section1: >-
   ## Lorem Ipsum
+
 
   Netlify CMS works with both `.md` and `.json`.
 
+
   \[Link test](/images/uploads/isabella juskova.jpg)
 
-  <img src="/images/uploads/isabella juskova.jpg" height="100px"/>
+
+  <img src="/images/uploads/isabella juskova.jpg" height="100px"
+  alt="test"></img>
+
 
   ###
 section2: |-
