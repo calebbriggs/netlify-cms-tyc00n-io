@@ -1,19 +1,17 @@
 ---
-title: About page title
+title: About
 featuredImage: /images/uploads/tim-marshall-155597.jpg
+subtitle: test
 section1: |-
   ## Lorem Ipsum
 
   Netlify CMS works with both `.md` and `.json`.
 
-  ![Image test](/images/uploads/isabella juskova.jpg)
+  \[Link test](/images/uploads/isabella juskova.jpg)
 
-  [Link test](/images/uploads/isabella juskova.jpg)
+  <img src="/images/uploads/isabella juskova.jpg" height="100px"/>
 
-  ### Embed Test
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+  ###
 section2: |-
   ## This is a Container component
 
@@ -30,3 +28,4 @@ section2: |-
 
   ![Tim Marshall](/images/uploads/tim-marshall-155597.jpg)
 ---
+
